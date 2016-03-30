@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OSTaskOptional</string>
+    <string name="action_settings">Settings</string>
+    <string name="memory_history">Ιστορικό\nΜνήμης</string>
+    <string name="processes">Διεργασίες</string>
+    <string name="general_info">Γενικές\nΠληροφορίες</string>
+    <string name="internal_storage">Εσωτερική Μνήμη</string>
+    <string name="external_storage">Εξωτερική Μνήμη</string>
+    <string name="free">Ελεύθερή</string>
+    <string name="size">Μέγεθος</string>
+    <string name="system_info">Πληροφορίες Συστήματος</string>
+    <string name="system_info_description">Πληροφορίες για το Λειτουργικό Σύστημα,τη Συσκευή, τη RAM και την Οθόνη</string>
+    <string name="battery_info">Πληροφορίες Μπαταρίας</string>
+    <string name="battery_info_description">Επίπεδο Μπαταρίας, Ζωή, Τεχνολογία, Κατάσταση Φόρτισης</string>
+    <string name="connection_state">Κατάσταση Συνδεσιμότητας</string>
+    <string name="connection_type">Τύπος Συνδεσιμότητας</string>
+    <string name="uptime">Uptime (Χωρίς τον χρόνο που κοιμάται)</string>
+    <string name="android_version">Έκδοση Android</string>
+    <string name="kernel_version">Έκδοση Πυρήνα</string>
+    <string name="manufacturer">Κατασκευαστής</string>
+    <string name="model">Μοντέλο</string>
+    <string name="battery_level">Διαθέσιμη Μπαταρία</string>
+    <string name="charging_state">Κατάσταση φόρτισης</string>
+    <string name="battery_health">Ζωή Μπαταρίας</string>
+    <string name="battery_technology">Τεχνολογία Μπαταρίας</string>
+    <string name="battery_temperature">Θερμοκρασία Μπαταρίας</string>
+    <string name="battery_voltage">Τάση Μπαταρίας</string>
+    <string name="delete">Διαγραφή</string>
+    <string name="delete_message">Είστε σίγουρος οτι θέλετε να διαγράψετε την καταχώρηση</string>
+    <string name="yes">Ναι</string>
+    <string name="no">Οχι</string>
+    <string name="connected">Συνδεδεμένο</string>
+    <string name="disconnected">Αποσυνδεδεμένο</string>
+    <string name="unknown">Άγνωστο</string>
+    <string name="battery_good">Καλή</string>
+    <string name="battery_dead">Νεκρή</string>
+    <string name="battery_overvoltage">Υπέρταση</string>
+    <string name="battery_overheat">Υπερθέρμανση</string>
+    <string name="battery_unspecified_failure">Απροσδιόριστη Αποτυχία</string>
+    <string name="charging_usb">Φορτίζει μέσω θύρας USB</string>
+    <string name="charging_ac">Φορτίζει μέσω φορτιστή εναλλασσόμενου ρεύματος</string>
+    <string name="charging_unknown">Φορτίζει(Άγνωστη Πηγή Ενέργειας)</string>
+    <string name="charging_not">Δεν Φορτίζει</string>
+    <string name="screen_resolution">Ανάλυση Οθόνης</string>
+    <string name="screen_density">Πυκνότητα Οθόνης</string>
+    <string name="total_ram">Μέγεθος RAM</string>
+    <string name="available_ram">Διαθέσιμη RAM</string>
+
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OSTaskOptional</string>
+    <string name="action_settings">Settings</string>
+    <string name="memory_history">Memory History</string>
+    <string name="processes">Processes</string>
+    <string name="general_info">General Info</string>
+    <string name="internal_storage">Internal Storage</string>
+    <string name="external_storage">External Storage</string>
+    <string name="free">Free</string>
+    <string name="size">Size</string>
+    <string name="system_info">System Info</string>
+    <string name="system_info_description">Infromation about the Operations System, Device, RAM and Screen</string>
+    <string name="battery_info">Battery Info</string>
+    <string name="battery_info_description">Battery level, health, technology, charging status</string>
+    <string name="connection_state">Connection State</string>
+    <string name="connection_type">Connection Type</string>
+    <string name="uptime">Uptime (without sleep time)</string>
+    <string name="android_version">Android Version</string>
+    <string name="kernel_version">Kernel Version</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="model">Model</string>
+    <string name="battery_level">Battery Level</string>
+    <string name="charging_state">Charging State</string>
+    <string name="battery_health">Battery Health</string>
+    <string name="battery_technology">Battery Technology</string>
+    <string name="battery_temperature">Battery Temperature</string>
+    <string name="battery_voltage">Battery Voltage</string>
+    <string name="delete">Delete</string>
+    <string name="delete_message">Are you sure you want to delete the entry</string>
+    <string name="yes">Yes</string>
+    <string name="no">Nο</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disonnected</string>
+	<string name="unknown">Unknown</string>
+	<string name="battery_good">Good</string>
+    <string name="battery_dead">Dead</string>
+	<string name="battery_overvoltage">Overvoltage</string>
+	<string name="battery_overheat">Overheat</string>
+	<string name="battery_unspecified_failure">Unspecified Failure</string>
+	<string name="charging_usb">Charging through USB port</string>
+	<string name="charging_ac">Charging through AC charger</string>
+	<string name="charging_unknown">Charging(Unknown Power Source)</string>
+	<string name="charging_not">Not Charging</string>
+	<string name="screen_resolution">Screen Resolution</string>
+	<string name="screen_density">Screen Density</string>
+	<string name="total_ram">Total RAM</string>
+	<string name="available_ram">Available RAM</string>
+	
+</resources>
